@@ -2,7 +2,7 @@
   
   # Hi there! 👋
   
-  My name is Kim Yewon.
+  My name is Yewon Kim.
   
   충북대학교 소프트웨어학과 학부생
   
