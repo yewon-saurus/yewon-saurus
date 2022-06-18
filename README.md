@@ -4,7 +4,9 @@
   
   My name is Kim Yewon.
   
-  충북대학교 소프트웨어학과에 재학 중인 학부생 김예원 입니다.
+  충북대학교 소프트웨어학과 학부생
+  
+  김예원 입니다! 👾
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyewon0804%2Fyewon0804&count_bg=%23FF4A9E&title_bg=%23565863&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdnjs0804)](https://solved.ac/ehdnjs0804)
@@ -35,6 +37,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-CA4626?style=flat-square&logo=Java&logoColor=white"/></a>
   
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   
@@ -48,11 +51,5 @@
   ![yewon0804's github stats](https://github-readme-stats.vercel.app/api?username=yewon0804&show_icons=true&theme=swift)
 
   [![yewon0804's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon0804&show_icons=true&hide_border=true&theme=swift&layout=Demo)](https://github.com/yewon0804)
-  
-  <br>
-  
-  # 👾 Algorithm 👾
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ehdnjs0804)](https://solved.ac/ehdnjs0804)
   
 </div>
