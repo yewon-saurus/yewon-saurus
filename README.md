@@ -8,7 +8,7 @@
   
   김예원 입니다! 👾
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yewon0804)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yewon0804)](https://velog.io/@yewon0804)
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ehdnjs0804)](https://solved.ac/ehdnjs0804)
   
