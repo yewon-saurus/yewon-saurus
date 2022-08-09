@@ -16,7 +16,7 @@
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yewon0804)](https://velog.io/@yewon0804)
   
-  ## 👇 This is my `solved.ac` profile. 👇
+  ## 👇 This is my `solved.ac` profile 👇
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ehdnjs0804)](https://solved.ac/ehdnjs0804)
   
