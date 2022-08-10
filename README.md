@@ -55,7 +55,7 @@
   
   <br>
   
-  # 👾 Github Stats 👾
+  # 👾 My Github Stats 👾
 
   ![yewon0804's github stats](https://github-readme-stats.vercel.app/api?username=yewon0804&show_icons=true&theme=swift)
 
