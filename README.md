@@ -4,7 +4,7 @@
   
   My name is Yewon Kim.
   
-  I am a majoring in `computer science` in `Chungbuk National University`, Korea.
+  I'm a majoring in `Computer Science` at `Chungbuk National University`, Korea.
   
   충북대학교 소프트웨어학과 학부생
   
