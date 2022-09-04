@@ -11,14 +11,12 @@
   김예원 입니다! 👾
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyewon0804%2Fyewon0804&count_bg=%23FF4A9E&title_bg=%23565863&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdnjs0804)](https://solved.ac/ehdnjs0804)
+
   ## 👇 This is my blog 👇
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yewon0804)](https://velog.io/@yewon0804)
-  
-  ## 👇 This is my `solved.ac` profile 👇
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ehdnjs0804)](https://solved.ac/ehdnjs0804)
   
   <br>
   
@@ -57,10 +55,9 @@
   
   # 👾 My Github Stats 👾
 
-  ![yewon0804's github stats](https://github-readme-stats.vercel.app/api?username=yewon0804&show_icons=true&theme=swift)
-
-  [![yewon0804's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon0804&show_icons=true&hide_border=true&theme=swift&layout=Demo)](https://github.com/yewon0804)
+  ![yewon0804's github stats](https://github-readme-stats.vercel.app/api?username=yewon0804&show_icons=true&theme=default)
+  [![yewon0804's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon0804&show_icons=true&hide_border=true&theme=default&layout=Demo)](https://github.com/yewon0804)
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=yewon0804)](https://github.com/ryo-ma/github-profile-trophy)
+<!--  [![trophy](https://github-profile-trophy.vercel.app/?username=yewon0804)](https://github.com/ryo-ma/github-profile-trophy) -->
   
 </div>
