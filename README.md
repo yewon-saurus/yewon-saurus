@@ -19,25 +19,10 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
   
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  
-  <table>
-    <th>
-      <h2>👇 This is my blog 👇</h2>
-    </th>
-    <th>
-      <h2>👾 My Github Stats 👾</h2>  
-    </th>
-    <tr>
-      <td align="center">
-        
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yewon0804)](https://velog.io/@yewon0804)
-      </td>
-      <td align="center">
-        
-  [![yewon0804's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon0804&show_icons=true&hide_border=true&theme=default&layout=Demo)](https://github.com/yewon0804)
-      </td>
-    </tr>
-  </table>
+
+## 👇 This is my blog 👇
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yewon0804)](https://velog.io/@yewon0804)
   
   <br>
   
