@@ -40,6 +40,7 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 - [2023. 11. 19.] [[KT AIVLE]인공지능 능력시험 AICE Associate 시험 후기](https://velog.io/@yewon0804/KT-AIVLE-School인공지능-능력시험-AICE-Associate-시험-후기)
 - [2023. 7. 25.] [[KT AIVLE]에이블스쿨 4기 - AI 개발자 최종 합격](https://velog.io/@yewon0804/KT-AIVLE-SchoolKT-에이블스쿨-4기-AI-개발자-트랙-최종-합격)
 - [2023. 2. 18.] [GitHub API(Octokit) 사용하기](https://velog.io/@yewon0804/GitHub-APIOctokit-사용하기)
+- [2022. 12. 3.] [[YOLOv5]커스텀 모델의 객체 탐지 결과 띄우기(REST API) with Flask](https://velog.io/@yewon0804/YOLOv5커스텀-모델의-객체-탐지-결과-띄우기-with-Flask-REST-API)
 - [2022. 6. 18.] [goorm IDE에서 MySQL 사용하기](https://velog.io/@yewon0804/구름-IDE에서-MySQL-사용하기)
 - [2022. 6. 18.] [[Linux]시스템 호출 제작](https://velog.io/@yewon0804/시스템-호출-제작)
 
