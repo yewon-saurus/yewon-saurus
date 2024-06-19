@@ -14,7 +14,7 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
     <h2>👇 This is my blog 👇</h2>
   </th>
   <tr>
-    <td>
+    <td rowspan="2">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 
@@ -27,10 +27,12 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
     </td>
     <td>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yewon0804)](https://velog.io/@yewon0804)
-
----
-
+    </td>
+  </tr>
+  <tr>
+    <td>
 ✨ *List of popular articles (Latest)* ✨
+      
 - [2023. 11. 19.] [[KT AIVLE]인공지능 능력시험 AICE Associate 시험 후기](https://velog.io/@yewon0804/KT-AIVLE-School인공지능-능력시험-AICE-Associate-시험-후기)
 - [2023. 7. 25.] [[KT AIVLE]에이블스쿨 4기 - AI 개발자 최종 합격](https://velog.io/@yewon0804/KT-AIVLE-SchoolKT-에이블스쿨-4기-AI-개발자-트랙-최종-합격)
 - [2023. 2. 18.] [GitHub API(Octokit) 사용하기](https://velog.io/@yewon0804/GitHub-APIOctokit-사용하기)
