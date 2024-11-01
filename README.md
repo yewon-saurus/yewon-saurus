@@ -6,6 +6,8 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyewon0804%2Fyewon0804&count_bg=%23FF4A9E&title_bg=%23565863&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[yewon-saurus/TIL](https://github.com/yewon-saurus/TIL)
+
 <table>
   <th>
     <h2>👾 My Tech Stack 👾</h2>
@@ -66,4 +68,6 @@ Here are some ideas to get you started:
 <!-- ![yewon0804's github stats](https://github-readme-stats.vercel.app/api?username=yewon0804&show_icons=true&theme=default) -->
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=yewon0804)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[yewon-saurus/TIL](https://github.com/yewon-saurus/TIL)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{yewon-saurus}?pet-id=1" width="1000" height="120"/>
+</a>
