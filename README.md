@@ -68,6 +68,10 @@ Here are some ideas to get you started:
 <!-- ![yewon0804's github stats](https://github-readme-stats.vercel.app/api?username=yewon0804&show_icons=true&theme=default) -->
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=yewon0804)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{yewon-saurus}?pet-id=1" width="1000" height="120"/>
-</a>
+<!-- <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/yewon-saurus"
+    width="1000"
+    height="120"
+  />
+</a> -->
