@@ -6,8 +6,6 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyewon0804%2Fyewon0804&count_bg=%23FF4A9E&title_bg=%23565863&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[yewon-saurus/TIL](https://github.com/yewon-saurus/TIL)
-
 <table>
   <th>
     <h2>👾 My Tech Stack 👾</h2>
