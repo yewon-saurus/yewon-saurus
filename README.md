@@ -28,7 +28,8 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
     </td>
     <td>
-    
+https://ywwwon01.tistory.com/
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yewon0804)](https://velog.io/@yewon0804)
     </td>
   </tr>
