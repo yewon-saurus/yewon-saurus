@@ -1,4 +1,8 @@
-# Hi there! 👋
+import { writeFileSync } from 'node:fs';
+import Parser from "rss-parser";
+
+let yewonReadme = ``;
+const markdownPre = `# Hi there! 👋
 
 My name is Yewon Kim.
 
@@ -28,26 +32,16 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
     </td>
     <td>
-✨ *List of recent articles* ✨
+✨ *List of recent articles* ✨`;
 
-<strong>📙 Tistory</strong>
-
-- [2025. 3. 26.] <a href=https://ywwwon01.tistory.com/16>[프로그래머스/js] 숫자의 표현 (Lv. 2)</a>
-- [2025. 3. 25.] <a href=https://ywwwon01.tistory.com/15>[프로그래머스/js] 다음 큰 숫자 (Lv. 2)</a>
-- [2025. 3. 17.] <a href=https://ywwwon01.tistory.com/14>[프로그래머스/js] 비밀 코드 해독 (Lv. 2)</a>
-- [2025. 2. 27.] <a href=https://ywwwon01.tistory.com/13>[WSL2] Linux 한글 입력기 설정</a>
-- [2025. 2. 16.] <a href=https://ywwwon01.tistory.com/12>[Next.js] HTML Element 충돌 감지</a>
-
-<strong>📗 Velog</strong>
-
-- [2024. 8. 13.] <a href=https://velog.io/@yewon0804/TOPCIT-20%ED%9A%8C-%EC%A0%95%EA%B8%B0%ED%8F%89%EA%B0%80-%EC%A7%80%EB%82%9C-4%ED%9A%8C%EC%B0%A8-%EB%8F%99%EC%95%88%EC%9D%98-%ED%9A%8C%EA%B3%A0>TOPCIT 20회 정기평가 3수준 달성, 지난 4회차 회고</a>
-- [2024. 1. 28.] <a href=https://velog.io/@yewon0804/KT-AIVLE-School%EC%97%90%EC%9D%B4%EB%B8%94%EC%8A%A4%EC%BF%A8-4%EA%B8%B0-AI-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%88%98%EB%A3%8C>[KT AIVLE]에이블스쿨 4기 - AI 개발자 빅프로젝트 & 수료식</a>
+const markdownPost = `
     </td>
   </tr>
   <tr>
     <td>
       
 ✨ *List of popular articles* ✨
+
 
 - [2023. 11. 19.] <a href=https://velog.io/@yewon0804/KT-AIVLE-School인공지능-능력시험-AICE-Associate-시험-후기>[KT AIVLE]인공지능 능력시험 AICE Associate 시험 후기</a>
 - [2023. 7. 25.] <a href=https://velog.io/@yewon0804/KT-AIVLE-SchoolKT-에이블스쿨-4기-AI-개발자-트랙-최종-합격>[KT AIVLE]에이블스쿨 4기 - AI 개발자 최종 합격</a>
@@ -58,3 +52,49 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
     </td>
   </tr>
 </table>
+`;
+
+// rss-parser 생성
+const parser = new Parser({
+    headers: {
+        Accept: 'application/rss+xml, application/xml, preMarkdown/xml, text/xml; q=0.1',
+    }
+});
+
+(async () => {
+    // 피드 목록
+    const tistoryFeed = await parser.parseURL('https://ywwwon01.tistory.com/rss');
+    const velogFeed = await parser.parseURL('https://v2.velog.io/rss/yewon0804');
+
+    // 앞 부분 합체
+    yewonReadme += markdownPre;
+
+    // Tistory 최근 게시글 5개
+    yewonReadme += `\n\n<strong>📙 Tistory</strong>\n`;
+    for (let i = 0; i < 5; i++) {
+        yewonReadme += addFeedItem(tistoryFeed.items[i]);
+    }
+
+    // Velog 최근 게시글 2개
+    yewonReadme += `\n\n<strong>📗 Velog</strong>\n`;
+    for (let i = 0; i < 2; i++) {
+        yewonReadme += addFeedItem(velogFeed.items[i]);
+    }
+
+    // 뒷 부분 합체
+    yewonReadme += markdownPost;
+
+    // README.md 파일 작성
+    writeFileSync('README.md', yewonReadme, 'utf8', (e) => {
+        console.log(e)
+    })
+
+    console.log('업데이트 완료')
+}) ();
+
+function addFeedItem(item) {
+    let {title, link, pubDate} = item;
+    pubDate = new Date(pubDate);
+    const [year, month, date] = [pubDate.getFullYear(), pubDate.getMonth() + 1, pubDate.getDate()];
+    return `\n- [${year}. ${month}. ${date}.] <a href=${link}>${title}</a>`;
+}
