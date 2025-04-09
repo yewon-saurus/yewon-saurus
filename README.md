@@ -32,11 +32,11 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 
 <strong>📙 Tistory</strong>
 
+- [2025. 4. 8.] <a href=https://ywwwon01.tistory.com/17>[프로그래머스/js] 124 나라의 숫자 (Lv. 2)</a>
 - [2025. 3. 26.] <a href=https://ywwwon01.tistory.com/16>[프로그래머스/js] 숫자의 표현 (Lv. 2)</a>
 - [2025. 3. 25.] <a href=https://ywwwon01.tistory.com/15>[프로그래머스/js] 다음 큰 숫자 (Lv. 2)</a>
 - [2025. 3. 17.] <a href=https://ywwwon01.tistory.com/14>[프로그래머스/js] 비밀 코드 해독 (Lv. 2)</a>
 - [2025. 2. 27.] <a href=https://ywwwon01.tistory.com/13>[WSL2] Linux 한글 입력기 설정</a>
-- [2025. 2. 16.] <a href=https://ywwwon01.tistory.com/12>[Next.js] HTML Element 충돌 감지</a>
 
 <strong>📗 Velog</strong>
 
