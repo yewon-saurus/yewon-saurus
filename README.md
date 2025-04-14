@@ -32,16 +32,16 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 
 <strong>📙 Tistory</strong>
 
-- [2025. 4. 8.] <a href=https://ywwwon01.tistory.com/17>[프로그래머스/js] 124 나라의 숫자 (Lv. 2)</a>
-- [2025. 3. 26.] <a href=https://ywwwon01.tistory.com/16>[프로그래머스/js] 숫자의 표현 (Lv. 2)</a>
-- [2025. 3. 25.] <a href=https://ywwwon01.tistory.com/15>[프로그래머스/js] 다음 큰 숫자 (Lv. 2)</a>
-- [2025. 3. 17.] <a href=https://ywwwon01.tistory.com/14>[프로그래머스/js] 비밀 코드 해독 (Lv. 2)</a>
-- [2025. 2. 27.] <a href=https://ywwwon01.tistory.com/13>[WSL2] Linux 한글 입력기 설정</a>
+- [2025.&nbsp; 4.&nbsp; 8.] <a href=https://ywwwon01.tistory.com/17>[프로그래머스/js] 124 나라의 숫자 (Lv. 2)</a>
+- [2025.&nbsp; 3.&nbsp;26.] <a href=https://ywwwon01.tistory.com/16>[프로그래머스/js] 숫자의 표현 (Lv. 2)</a>
+- [2025.&nbsp; 3.&nbsp;25.] <a href=https://ywwwon01.tistory.com/15>[프로그래머스/js] 다음 큰 숫자 (Lv. 2)</a>
+- [2025.&nbsp; 3.&nbsp;17.] <a href=https://ywwwon01.tistory.com/14>[프로그래머스/js] 비밀 코드 해독 (Lv. 2)</a>
+- [2025.&nbsp; 2.&nbsp;27.] <a href=https://ywwwon01.tistory.com/13>[WSL2] Linux 한글 입력기 설정</a>
 
 <strong>📗 Velog</strong>
 
-- [2024. 8. 13.] <a href=https://velog.io/@yewon0804/TOPCIT-20%ED%9A%8C-%EC%A0%95%EA%B8%B0%ED%8F%89%EA%B0%80-%EC%A7%80%EB%82%9C-4%ED%9A%8C%EC%B0%A8-%EB%8F%99%EC%95%88%EC%9D%98-%ED%9A%8C%EA%B3%A0>TOPCIT 20회 정기평가 3수준 달성, 지난 4회차 회고</a>
-- [2024. 1. 28.] <a href=https://velog.io/@yewon0804/KT-AIVLE-School%EC%97%90%EC%9D%B4%EB%B8%94%EC%8A%A4%EC%BF%A8-4%EA%B8%B0-AI-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%88%98%EB%A3%8C>[KT AIVLE]에이블스쿨 4기 - AI 개발자 빅프로젝트 & 수료식</a>
+- [2024.&nbsp; 8.&nbsp;13.] <a href=https://velog.io/@yewon0804/TOPCIT-20%ED%9A%8C-%EC%A0%95%EA%B8%B0%ED%8F%89%EA%B0%80-%EC%A7%80%EB%82%9C-4%ED%9A%8C%EC%B0%A8-%EB%8F%99%EC%95%88%EC%9D%98-%ED%9A%8C%EA%B3%A0>TOPCIT 20회 정기평가 3수준 달성, 지난 4회차 회고</a>
+- [2024.&nbsp; 1.&nbsp;28.] <a href=https://velog.io/@yewon0804/KT-AIVLE-School%EC%97%90%EC%9D%B4%EB%B8%94%EC%8A%A4%EC%BF%A8-4%EA%B8%B0-AI-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%88%98%EB%A3%8C>[KT AIVLE]에이블스쿨 4기 - AI 개발자 빅프로젝트 & 수료식</a>
     </td>
   </tr>
   <tr>
@@ -51,11 +51,11 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 
 
 - [2023. 11. 19.] <a href=https://velog.io/@yewon0804/KT-AIVLE-School인공지능-능력시험-AICE-Associate-시험-후기>[KT AIVLE]인공지능 능력시험 AICE Associate 시험 후기</a>
-- [2023. 7. 25.] <a href=https://velog.io/@yewon0804/KT-AIVLE-SchoolKT-에이블스쿨-4기-AI-개발자-트랙-최종-합격>[KT AIVLE]에이블스쿨 4기 - AI 개발자 최종 합격</a>
-- [2023. 2. 18.] <a href=https://velog.io/@yewon0804/GitHub-APIOctokit-사용하기>GitHub API(Octokit) 사용하기</a>
-- [2022. 12. 3.] <a href=https://velog.io/@yewon0804/YOLOv5커스텀-모델의-객체-탐지-결과-띄우기-with-Flask-REST-API>[YOLOv5]커스텀 모델의 객체 탐지 결과 띄우기(REST API) with Flask</a>
-- [2022. 6. 18.] <a href=https://velog.io/@yewon0804/구름-IDE에서-MySQL-사용하기>goorm IDE에서 MySQL 사용하기</a>
-- [2022. 6. 18.] <a href=https://velog.io/@yewon0804/시스템-호출-제작>[Linux]시스템 호출 제작</a>
+- [2023.&nbsp; 7. 25.] <a href=https://velog.io/@yewon0804/KT-AIVLE-SchoolKT-에이블스쿨-4기-AI-개발자-트랙-최종-합격>[KT AIVLE]에이블스쿨 4기 - AI 개발자 최종 합격</a>
+- [2023.&nbsp; 2. 18.] <a href=https://velog.io/@yewon0804/GitHub-APIOctokit-사용하기>GitHub API(Octokit) 사용하기</a>
+- [2022. 12.&nbsp; 3.] <a href=https://velog.io/@yewon0804/YOLOv5커스텀-모델의-객체-탐지-결과-띄우기-with-Flask-REST-API>[YOLOv5]커스텀 모델의 객체 탐지 결과 띄우기(REST API) with Flask</a>
+- [2022.&nbsp; 6. 18.] <a href=https://velog.io/@yewon0804/구름-IDE에서-MySQL-사용하기>goorm IDE에서 MySQL 사용하기</a>
+- [2022.&nbsp; 6. 18.] <a href=https://velog.io/@yewon0804/시스템-호출-제작>[Linux]시스템 호출 제작</a>
     </td>
   </tr>
 </table>

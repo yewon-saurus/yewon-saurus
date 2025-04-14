@@ -44,11 +44,11 @@ const markdownPost = `
 
 
 - [2023. 11. 19.] <a href=https://velog.io/@yewon0804/KT-AIVLE-School인공지능-능력시험-AICE-Associate-시험-후기>[KT AIVLE]인공지능 능력시험 AICE Associate 시험 후기</a>
-- [2023. 7. 25.] <a href=https://velog.io/@yewon0804/KT-AIVLE-SchoolKT-에이블스쿨-4기-AI-개발자-트랙-최종-합격>[KT AIVLE]에이블스쿨 4기 - AI 개발자 최종 합격</a>
-- [2023. 2. 18.] <a href=https://velog.io/@yewon0804/GitHub-APIOctokit-사용하기>GitHub API(Octokit) 사용하기</a>
-- [2022. 12. 3.] <a href=https://velog.io/@yewon0804/YOLOv5커스텀-모델의-객체-탐지-결과-띄우기-with-Flask-REST-API>[YOLOv5]커스텀 모델의 객체 탐지 결과 띄우기(REST API) with Flask</a>
-- [2022. 6. 18.] <a href=https://velog.io/@yewon0804/구름-IDE에서-MySQL-사용하기>goorm IDE에서 MySQL 사용하기</a>
-- [2022. 6. 18.] <a href=https://velog.io/@yewon0804/시스템-호출-제작>[Linux]시스템 호출 제작</a>
+- [2023.&nbsp; 7. 25.] <a href=https://velog.io/@yewon0804/KT-AIVLE-SchoolKT-에이블스쿨-4기-AI-개발자-트랙-최종-합격>[KT AIVLE]에이블스쿨 4기 - AI 개발자 최종 합격</a>
+- [2023.&nbsp; 2. 18.] <a href=https://velog.io/@yewon0804/GitHub-APIOctokit-사용하기>GitHub API(Octokit) 사용하기</a>
+- [2022. 12.&nbsp; 3.] <a href=https://velog.io/@yewon0804/YOLOv5커스텀-모델의-객체-탐지-결과-띄우기-with-Flask-REST-API>[YOLOv5]커스텀 모델의 객체 탐지 결과 띄우기(REST API) with Flask</a>
+- [2022.&nbsp; 6. 18.] <a href=https://velog.io/@yewon0804/구름-IDE에서-MySQL-사용하기>goorm IDE에서 MySQL 사용하기</a>
+- [2022.&nbsp; 6. 18.] <a href=https://velog.io/@yewon0804/시스템-호출-제작>[Linux]시스템 호출 제작</a>
     </td>
   </tr>
 </table>
@@ -95,6 +95,6 @@ const parser = new Parser({
 function addFeedItem(item) {
     let {title, link, pubDate} = item;
     pubDate = new Date(pubDate);
-    const [year, month, date] = [pubDate.getFullYear(), pubDate.getMonth() + 1, pubDate.getDate()];
-    return `\n- [${year}. ${month}. ${date}.] <a href=${link}>${title}</a>`;
+    const [year, month, date] = [pubDate.getFullYear(), `${pubDate.getMonth() + 1}`.padStart(2, ' '), `${pubDate.getDate()}`.padStart(2, ' ')];
+    return `\n- [${year}.&nbsp;${month}.&nbsp;${date}.] <a href=${link}>${title}</a>`;
 }
