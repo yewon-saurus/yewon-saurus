@@ -32,11 +32,11 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 
 <strong>📙 Tistory</strong>
 
+- [2025.&nbsp; 4.&nbsp;30.] <a href=https://ywwwon01.tistory.com/23>[프로그래머스/js] 다리를 지나는 트럭 (Lv. 2)</a>
 - [2025.&nbsp; 4.&nbsp;22.] <a href=https://ywwwon01.tistory.com/22>[프로그래머스/js] 네트워크 (Lv. 3)</a>
 - [2025.&nbsp; 4.&nbsp;21.] <a href=https://ywwwon01.tistory.com/21>[프로그래머스/js] 게임 맵 최단거리 (Lv. 2)</a>
 - [2025.&nbsp; 4.&nbsp;18.] <a href=https://ywwwon01.tistory.com/20>[프로그래머스/js] 캐시 (Lv. 2)</a>
 - [2025.&nbsp; 4.&nbsp;16.] <a href=https://ywwwon01.tistory.com/19>[프로그래머스/js] 소수 찾기 (Lv. 2)</a>
-- [2025.&nbsp; 4.&nbsp;15.] <a href=https://ywwwon01.tistory.com/18>[프로그래머스/js] 괄호 회전하기 (Lv. 2)</a>
 
 <strong>📗 Velog</strong>
 
