@@ -32,11 +32,11 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 
 <strong>📙 Tistory</strong>
 
-- [2025.&nbsp; 5.&nbsp;22.] <a href=https://ywwwon01.tistory.com/31>[AWS] EC2에 https 적용하기</a>
+- [2025.&nbsp; 6.&nbsp; 5.] <a href=https://ywwwon01.tistory.com/32>[AWS] EC2에 https 적용하기 (with. CloudFront)</a>
+- [2025.&nbsp; 5.&nbsp;22.] <a href=https://ywwwon01.tistory.com/31>[AWS] EC2에 https 적용하기 (with. ALB)</a>
 - [2025.&nbsp; 5.&nbsp;21.] <a href=https://ywwwon01.tistory.com/29>[에러 노트] Window.scrollTo({ behavior: 'smooth' })가 동작하지 않아요.</a>
 - [2025.&nbsp; 5.&nbsp;17.] <a href=https://ywwwon01.tistory.com/28>[AWS] 프리티어 시작하기 (VPC, 네트워크, EC2)</a>
 - [2025.&nbsp; 5.&nbsp;13.] <a href=https://ywwwon01.tistory.com/27>[BOJ/js] 31924번: 현대모비스 특별상의 주인공은? 2</a>
-- [2025.&nbsp; 5.&nbsp;13.] <a href=https://ywwwon01.tistory.com/25>[AWS] 예산 생성</a>
 
 <strong>📗 Velog</strong>
 
