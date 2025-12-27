@@ -32,11 +32,11 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 
 <strong>📙 Tistory</strong>
 
+- [2025.&nbsp;12.&nbsp;26.] <a href=https://ywwwon01.tistory.com/40>[에러 노트] Redundant alt attribute</a>
 - [2025.&nbsp;10.&nbsp;16.] <a href=https://ywwwon01.tistory.com/39>[에러 노트] video element가 event를 가로챘다 (event intercept)</a>
 - [2025.&nbsp; 7.&nbsp;23.] <a href=https://ywwwon01.tistory.com/38>[React] 자습서: 틱택토 게임 - 개선 아이디어 적용하기</a>
 - [2025.&nbsp; 6.&nbsp;26.] <a href=https://ywwwon01.tistory.com/36>노트북 터치패드가 튀어나왔어요</a>
 - [2025.&nbsp; 6.&nbsp;14.] <a href=https://ywwwon01.tistory.com/35>reflow 최적화 해보기</a>
-- [2025.&nbsp; 6.&nbsp;10.] <a href=https://ywwwon01.tistory.com/34>[Docker] Docker Compose</a>
 
 <strong>📗 Velog</strong>
 
