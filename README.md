@@ -23,11 +23,11 @@ I'm a Front-End developer who knows how to look at it from a **user's point of v
 ✨ *List of recent articles* ✨
 
 
+- [2026.&nbsp; 1.&nbsp;26.] <a href=https://ywwwon01.tistory.com/44>[일기] 비대면 면접</a>
 - [2026.&nbsp; 1.&nbsp; 5.] <a href=https://ywwwon01.tistory.com/43>[에러 노트] The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value.</a>
 - [2026.&nbsp; 1.&nbsp; 2.] <a href=https://ywwwon01.tistory.com/42>리눅스마스터 2급 합격 후기 (3일 벼락치기)</a>
 - [2025.&nbsp;12.&nbsp;30.] <a href=https://ywwwon01.tistory.com/41>[에러 노트] Using target=&quot;_blank&quot; without rel=&quot;noreferrer&quot; (which implies rel=&quot;noopener&quot;) is a security risk in older browsers</a>
 - [2025.&nbsp;12.&nbsp;26.] <a href=https://ywwwon01.tistory.com/40>[에러 노트] Redundant alt attribute</a>
-- [2025.&nbsp;10.&nbsp;16.] <a href=https://ywwwon01.tistory.com/39>[에러 노트] video element가 event를 가로챘다 (event intercept)</a>
 
 ✨ *List of popular articles* ✨
 
